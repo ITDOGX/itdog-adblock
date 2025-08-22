@@ -14,11 +14,11 @@
 ---
 
 ## 📦 安装方法
-1. 先安装油猴插件（Tampermonkey / Violentmonkey / Greasemonkey 皆可）  
+1. 安装油猴插件（Tampermonkey / Violentmonkey / Greasemonkey 皆可）  
    - [Tampermonkey for Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)  
    - [Tampermonkey for Firefox](https://addons.mozilla.org/firefox/addon/tampermonkey/)  
 
 2. 点击安装脚本：  
-   👉 [点我安装 itdog-cleaner.user.js](https://github.com/你的GitHub用户名/itdog-cleaner/raw/main/itdog-cleaner.user.js)  
+   👉 [点我安装 itdog-cleaner.user.js](https://github.com/ITDOGX/itdog-adblock/raw/main/itdog-cleaner.user.js)  
 
 3. 打开 [https://www.itdog.cn/](https://www.itdog.cn/) 页面，广告元素将自动被清理。  
